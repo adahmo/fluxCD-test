@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: staging-pod1
+  name: staging-pod
   labels:
     app: staging-app
 spec:
